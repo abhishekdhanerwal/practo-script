@@ -2,7 +2,7 @@
     "crons": [
       {
         "path": "/api/practo",
-        "schedule": "*/5 * * *"
+        "schedule": "35 10 * * *"
       }
     ]
   }
